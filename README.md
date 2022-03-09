@@ -1,2 +1,3 @@
-# Generator_Password_Py
-Generator Password (Python) by Shipu
+# Generator Password (Python) by Shipu
+
+### Sample Code
